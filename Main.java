@@ -24,7 +24,7 @@ public class Main {
 	 */
 	public static void main(String[] args) {
 
-		Set<String> set1 = new HashSet<>();
+	Set<String> set1 = new HashSet<>();
         set1.add("str1");
         set1.add("str2");
         set1.add("str3");
